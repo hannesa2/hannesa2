@@ -1,6 +1,3 @@
-### Hi there 👋,
-
-## I'm Hannes Achleitner
 - Currently, I am building next generation Cars and software prototypes at BMW Munich - Germany. :oncoming_automobile:
 
 --------------
