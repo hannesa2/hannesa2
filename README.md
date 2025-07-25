@@ -5,7 +5,7 @@
 ### 📈 Stackoverflow Reputation 
 <a href="https://stackoverflow.com/users/1079990/hannes-ach"><img src="https://stackoverflow.com/users/flair/1079990.png" width="208" height="58" alt="profile for Hannes Achleitner at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hannes Achleitner at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-### :bar_chart: GitHub Stats 2021
+### :bar_chart: GitHub Stats
 [![Hannes's github stats](https://github-readme-stats.vercel.app/api?username=hannesa2&show_icons=true&line_height=21&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannesa2&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
